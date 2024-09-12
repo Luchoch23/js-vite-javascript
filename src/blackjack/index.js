@@ -87,3 +87,4 @@ import { crearDeck, pedirCarta, valorCarta, turnoComputadora, crearCartaHTML } f
  });
  
  console.error("TEST DESDE INDEX.JS")
+ console.error("TEST DESDE INDEX.JS")
